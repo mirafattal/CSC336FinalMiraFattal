@@ -1,6 +1,16 @@
-﻿namespace CSC336FinalMiraFattal.Extensions
+﻿using CSC336FinalMiraFattal.Filter;
+
+namespace CSC336FinalMiraFattal.Extensions
 {
-    public class ControllerExtension
+    public static class ControllerExtension
     {
+        public static IServiceCollection AddController(this IServiceCollection service)
+        {
+            service.AddControllers(options =>
+            {
+                options.Filters.Add(new GlobalExceptionFilter());
+            });
+            return service;
+        }
     }
 }
