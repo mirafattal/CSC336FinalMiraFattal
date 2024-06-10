@@ -1,0 +1,6 @@
+@CSC336FinalMiraFattal_HostAddress = http://localhost:5174
+
+GET {{CSC336FinalMiraFattal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
