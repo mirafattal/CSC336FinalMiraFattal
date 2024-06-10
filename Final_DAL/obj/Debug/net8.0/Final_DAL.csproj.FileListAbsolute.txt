@@ -1,0 +1,14 @@
+D:\CSC336Final\Final_DAL\bin\Debug\net8.0\Final_DAL.deps.json
+D:\CSC336Final\Final_DAL\bin\Debug\net8.0\Final_DAL.runtimeconfig.json
+D:\CSC336Final\Final_DAL\bin\Debug\net8.0\Final_DAL.dll
+D:\CSC336Final\Final_DAL\bin\Debug\net8.0\Final_DAL.pdb
+D:\CSC336Final\Final_DAL\obj\Debug\net8.0\Final_DAL.csproj.AssemblyReference.cache
+D:\CSC336Final\Final_DAL\obj\Debug\net8.0\Final_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSC336Final\Final_DAL\obj\Debug\net8.0\Final_DAL.AssemblyInfoInputs.cache
+D:\CSC336Final\Final_DAL\obj\Debug\net8.0\Final_DAL.AssemblyInfo.cs
+D:\CSC336Final\Final_DAL\obj\Debug\net8.0\Final_DAL.csproj.CoreCompileInputs.cache
+D:\CSC336Final\Final_DAL\obj\Debug\net8.0\Final_DAL.dll
+D:\CSC336Final\Final_DAL\obj\Debug\net8.0\refint\Final_DAL.dll
+D:\CSC336Final\Final_DAL\obj\Debug\net8.0\Final_DAL.pdb
+D:\CSC336Final\Final_DAL\obj\Debug\net8.0\Final_DAL.genruntimeconfig.cache
+D:\CSC336Final\Final_DAL\obj\Debug\net8.0\ref\Final_DAL.dll
