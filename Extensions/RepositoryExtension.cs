@@ -10,9 +10,9 @@ namespace CSC336FinalMiraFattal.Extensions
     {
         public static IServiceCollection AddRepository(this IServiceCollection service)
         {
-            service.AddScoped<IAirplaneRepository, AirplaneRepository>();
+            service.AddScoped<Final_DAL.Repositories.Airplanes.IAirplaneRepository, AirplaneRepository>();
             service.AddScoped<IReservationRepository, ReservationRepository>();
-            service.AddScoped<IFlightRepository, FlightRepository>();
+            service.AddScoped<Final_DAL.Repositories.Flights.IFlightRepository, FlightRepository>();
             service.AddScoped<IPassengerRepository, PassengerRepository>();
             service.AddScoped<IPilotRepository, PilotRepository>();
 
