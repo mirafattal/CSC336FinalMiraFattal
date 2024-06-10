@@ -15,5 +15,11 @@ namespace CSC336FinalMiraFattal.Controllers
         {
             _reservationService = reservationService;
         }
+
+        [HttpPost("AddReservationWithFlightAndPassenger")]
+        public void AddResPassFlight(ResWithPassAndFlight add)
+        {
+            _reservationService.AddResPassFlight(add);
+        }
     }
 }
