@@ -1,0 +1,17 @@
+D:\CSC336Final\Final_BLL\bin\Debug\net8.0\Final_BLL.deps.json
+D:\CSC336Final\Final_BLL\bin\Debug\net8.0\Final_BLL.runtimeconfig.json
+D:\CSC336Final\Final_BLL\bin\Debug\net8.0\Final_BLL.dll
+D:\CSC336Final\Final_BLL\bin\Debug\net8.0\Final_BLL.pdb
+D:\CSC336Final\Final_BLL\bin\Debug\net8.0\Final_DAL.dll
+D:\CSC336Final\Final_BLL\bin\Debug\net8.0\Final_DAL.pdb
+D:\CSC336Final\Final_BLL\obj\Debug\net8.0\Final_BLL.csproj.AssemblyReference.cache
+D:\CSC336Final\Final_BLL\obj\Debug\net8.0\Final_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSC336Final\Final_BLL\obj\Debug\net8.0\Final_BLL.AssemblyInfoInputs.cache
+D:\CSC336Final\Final_BLL\obj\Debug\net8.0\Final_BLL.AssemblyInfo.cs
+D:\CSC336Final\Final_BLL\obj\Debug\net8.0\Final_BLL.csproj.CoreCompileInputs.cache
+D:\CSC336Final\Final_BLL\obj\Debug\net8.0\Final_BLL.csproj.Up2Date
+D:\CSC336Final\Final_BLL\obj\Debug\net8.0\Final_BLL.dll
+D:\CSC336Final\Final_BLL\obj\Debug\net8.0\refint\Final_BLL.dll
+D:\CSC336Final\Final_BLL\obj\Debug\net8.0\Final_BLL.pdb
+D:\CSC336Final\Final_BLL\obj\Debug\net8.0\Final_BLL.genruntimeconfig.cache
+D:\CSC336Final\Final_BLL\obj\Debug\net8.0\ref\Final_BLL.dll
