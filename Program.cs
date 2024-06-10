@@ -1,6 +1,10 @@
+using CSC336FinalMiraFattal.Extensions;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.addDb(builder.Configuration);
+builder.Services.AddAutoMapperConfig();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
